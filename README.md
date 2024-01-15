@@ -1,5 +1,11 @@
 # Apresentação 
 
+Esse projeto se trata de uma base de conhecimento, onde é possível cadastrar artigos, separados por categorias e sub-categorias.
+
+Foi utilizado o framework VueJs no front-end e NodeJs no back-end.
+
+Repositório back-end: https://github.com/gabrielnapolis/Base-de-Conhecimento-Backend
+
 ## 1° Cadastro de Usuários
 <img src="src\assets\01.png">
 
