@@ -1,24 +1,14 @@
-# frontend
+# Apresentação 
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<img src="src\assets\01.png">
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<img src="src\assets\02.png">
 
-### Lints and fixes files
-```
-npm run lint
-```
+<img src="src\assets\03.png">
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="src\assets\04.png">
+
+<img src="src\assets\05.png">
+
+<img src="src\assets\06.png">
