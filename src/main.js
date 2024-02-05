@@ -8,6 +8,8 @@ import './config/msgs'
 
 Vue.config.productionTip = false
 
+//Temporário!!
+require('axios').defaults.headers.common['Authorization'] = 'bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MiwibmFtZSI6IkdhYnJpZWwiLCJlbWFpbCI6ImdhYnJpZWxuYXBvbGlzMTYwNEBnbWFpbC5jb20iLCJhZG1pbiI6dHJ1ZSwiaWF0IjoxNzA2NzAyMTgzLCJleHAiOjE3MDY5NjEzODN9.zJCWKb-rcTA8fROYysibKu33WdmiSH1Ismvesxvsi18'
 
 new Vue({
   store,
